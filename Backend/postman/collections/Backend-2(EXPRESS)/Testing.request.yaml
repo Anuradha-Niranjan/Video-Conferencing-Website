@@ -1,0 +1,5 @@
+$kind: http-request
+name: Testing
+url: localhost:4000/user-info
+method: GET
+order: 1785565299516
